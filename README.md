@@ -1,4 +1,4 @@
-# Mails
+# Email Generator
  ### MAKE UNLIMITED GMAILS 
   
  - To use this tool you need an valid and working mail account already. </br> 
@@ -21,9 +21,9 @@
  ### Installing 
   
  ``` 
- ~ ❯❯❯ git clone https://github.com/thedeveloper03/mails.git 
+ ~ ❯❯❯ git clone https://github.com/pixelPusher03/email-generator.git 
   
- ~ ❯❯❯ cd mails
+ ~ ❯❯❯ cd email-generator
   
  ~ ❯❯❯ chmod +x mail.sh 
   
