@@ -18,11 +18,14 @@
   
  ``` 
  ~ ❯❯❯ git clone https://github.com/pixelPusher03/email-generator.git 
-  
+  ```
+```
  ~ ❯❯❯ cd email-generator
-  
+  ```
+```
  ~ ❯❯❯ chmod +x mail.sh 
-  
+ ``` 
+```
  ~ ❯❯❯ ./mail.sh 
  ``` 
   
